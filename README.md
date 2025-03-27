@@ -2,7 +2,7 @@
 
 A **simplified strategy game** inspired by **Dobutsu Shogi**, developed as part of our **CS150 course project**. This game retains the essence of traditional Shogi while being easy to learn and fun to play!
 
-### ♟️ Similar to Chess, but Simpler  
+### Similar to Chess ♟️, but Simpler  
 Dobutsu Shogi (also called **"Animal Chess"**) is a **mini version of Shogi**, Japan’s version of chess. The game is played on a **3×4 board** with only **four pieces per player**:  
 - 🦁 **Lion** – Moves **one step** in any direction (like the King in Chess).  
 - 🐘 **Elephant** – Moves **diagonally** in any direction.  
