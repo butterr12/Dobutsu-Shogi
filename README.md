@@ -27,5 +27,5 @@ Unlike chess, **captured pieces can be reused** by the opponent! When you captur
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/dobutsu-shogi-game.git
-cd dobutsu-shogi-game
+git clone https://github.com/butterr12/Dobutsu-Shogi.git
+cd Dobutsu-Shogi
