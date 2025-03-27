@@ -1,4 +1,4 @@
-# 🦁🐰 Dobutsu Shogi Game  
+# 🦁 Dobutsu Shogi Game 🐰
 
 A **simplified strategy game** inspired by **Dobutsu Shogi**, developed as part of our **CS150 course project**. This game retains the essence of traditional Shogi while being easy to learn and fun to play!
 
